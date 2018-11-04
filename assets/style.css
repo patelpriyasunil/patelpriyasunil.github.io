@@ -126,7 +126,68 @@ h3{
 
 
      }
- 
+     form{
+         color:#777777;
+         padding-left:10;
+      margin:5px;
+         font-family: Arial, Helvetica, sans-serif;
+         font-weight:initial;
+        
+     }
+     input[type=text], select {
+         width: 880px;
+         padding: 10px 20px;
+         margin: 8px;
+         margin:10px;
+         
+     }
+     input[type=submit] {
+        width:100px;
+        Height:50px;
+        background-color:#4aaaa5;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size:20px;
+        color:#ffffff;
+    
+     }
+     
+    
+     #Message{
+        Height: 225px;
+        
+        
+     }
+     
+
+     #Physics{
+         padding: 5px 20px;
+         height:150px;
+         width: 200px;
+        
+     }
+
+     #Gadgets{
+        padding: 5px 20px;
+        height:150px;
+        width: 200px;
+
+     }
+#Hangman{
+    padding: 5px 20px;
+    height:150px;
+    width: 200px;
+}
+#RPG{
+    padding: 5px 20px;
+    height:150px;
+    width: 200px;
+}
+
+#Trivia{
+    padding: 5px 20px;
+    height:150px;
+    width: 200px;
+}
     
 footer {
     margin:0;
