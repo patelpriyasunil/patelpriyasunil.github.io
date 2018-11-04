@@ -3,12 +3,13 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: lightcyan;
+    background-color:lightcyan;
 }
 
 .container {
     width: 960px;
     margin:  auto; 
+    
 }
 
 .header {
@@ -129,10 +130,13 @@ h3{
      form{
          color:#777777;
          padding-left:10;
-      margin:5px;
+         margin:5px;
          font-family: Arial, Helvetica, sans-serif;
          font-weight:initial;
         
+     }
+     label{
+         padding:10px;
      }
      input[type=text], select {
          width: 880px;
