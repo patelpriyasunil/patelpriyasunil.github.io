@@ -3,13 +3,12 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background:lightcyan;
+    background-color: lightcyan;
 }
 
 .container {
     width: 960px;
     margin:  auto; 
-    
 }
 
 .header {
@@ -23,7 +22,8 @@ body {
     border-bottom: 2px solid;
     border-bottom-color: #cccccc;
     overflow: hidden;
-    position: relative;
+   
+
 }
 .logo {
     display:block;
@@ -61,12 +61,11 @@ h1 {
   color: #eee;
   text-align: center;
   background:#4aaaa5;
- 
+  /* padding-top: 10px; */
   }
   section{
       display:block;
       float:left;
-     
       
   }
  .box{
@@ -74,7 +73,7 @@ h1 {
     width: 960px;
     margin:auto;
      background:#ffffff;
-   position:relative;
+     position:relative;
  padding:0;
 margin: 50px 480px 50px 480px;
 display:block;
@@ -122,38 +121,13 @@ h3{
      text-align: left;
      color: #777777;
      font-family: Georgia, 'Times New Roman', Times, serif;
-     line-height: 40px;
-    font-weight: initial;
+     line-height: 30px;
+     font-weight: initial;
 
 
      }
-     .form{
-         padding-left:20px;
-         color:#777777;
-         font-family:Arial, Helvetica, sans-serif;
-         font-weight: lighter;
-     }
-
-     input[type=text] {
-padding:12px 20px;
-margin:5px 0px;
-width:870px;
-     }
-
+ 
     
-   input[type=submit] {
-         background-color:#4aaaa5;
-         color:#ffffff;
-         width:90px;
-         height:40px;
-         font-size:15px;
-         font-family: Arial, Helvetica, sans-serif;
-     }
-     #Message{
-         height: 120px;
-     }
-
-     
 footer {
     margin:0;
     background-color:#666666;
